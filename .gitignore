@@ -1,0 +1,10 @@
+.*
+venv
+!.gitignore
+!.dockerignore
+!.env
+!.env.production
+*.pyc
+dist
+__pycache__
+**/node_modules

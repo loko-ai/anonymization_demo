@@ -1,0 +1,4 @@
+Flask
+loko-extensions
+pymupdf
+requests
